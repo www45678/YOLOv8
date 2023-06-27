@@ -1,0 +1,7 @@
+path: ../ultralytics/ultralytics/yolo/data
+train: train.txt
+val: val.txt
+test: test.txt
+
+nc: 5
+names: ['broken', 'hot_spot', 'black_border', 'scratch', 'no_electricity']
